@@ -9,4 +9,5 @@ Technologies used:<br>
 -Node<br>
 -Postman<br>
 -Github<br>
-Frontend hosted with Netlify, and Backend with Heroku.
+Frontend hosted with Netlify: https://mern-task-planner.netlify.app/signin<br>
+And Backend with Heroku, click view deployment or: https://simple-task-planner.herokuapp.com/<br>
