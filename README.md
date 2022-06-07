@@ -4,10 +4,11 @@ Simple full stack app to log and keep track of daily tasks. Built with proper au
 This was my first attempt to build something with MERN stack. <br>
 Technologies used:<br>
 <li>
-<ul>MongoDB</ul>
-<ul>Express</ul>
-<ul>React</ul>
-<ul>Node</ul>
-<ul>Postman</ul>
-<ul>Github</ul>
-</li>
+MongoDB<br>
+Express<br>
+React
+Node
+Postman
+Github
+</li><br>
+Frontend hosted with Netlify, and Backend with Heroku.
